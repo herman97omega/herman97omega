@@ -46,7 +46,7 @@ fontLoader.load(
                 bevelThickness: 0.05,
                 bevelSize: 0.02,
                 bevelOffset: 0,
-                bevelSegments: 6
+                bevelSegments: 5
             }
         )
         textGeometry.center()
